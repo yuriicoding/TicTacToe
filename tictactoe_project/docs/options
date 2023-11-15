@@ -1,0 +1,30 @@
+--class-path
+'C:/Users/itdev/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/itdev/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/itdev/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar'
+--patch-module
+ca.cmpt213='C:/Users/itdev/Desktop/CMPT213/a4_tictactoe_v2/tictactoe_project/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/itdev/Desktop/CMPT213/a4_tictactoe_v2/tictactoe_project/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/itdev/Desktop/CMPT213/a4_tictactoe_v2/tictactoe_project/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tictactoe_project 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/itdev/Desktop/CMPT213/a4_tictactoe_v2/tictactoe_project/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tictactoe_project 1.0 API'
